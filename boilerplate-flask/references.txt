@@ -1,0 +1,11 @@
+https://medium.com/@ericvanrees/creating-a-flask-app-using-vscode-fcdb2d0b9979
+
+
+https://stackoverflow.com/questions/31252791/flask-importerror-no-module-named-flask
+https://stackoverflow.com/questions/31133050/virtualenv-command-not-found
+https://stackoverflow.com/questions/37137664/issue-with-activating-virtualenv 
+
+
+ git reset --soft HEAD~n 
+
+ - To Deletes the first commit - git update-ref -d HEAD
